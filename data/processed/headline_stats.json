@@ -1,0 +1,32 @@
+{
+  "total_games": 1488,
+  "date_range": "2022-11-24 to 2026-08-07",
+  "overall_win_rate": 0.528,
+  "overall_record": {
+    "win": "786",
+    "loss": "630",
+    "draw": "72"
+  },
+  "favourite_time_control": "rapid",
+  "favourite_time_control_share": 0.985,
+  "peak_rapid_rating": 1259,
+  "latest_rapid_rating": 1148,
+  "white_first_move": "e4",
+  "white_first_move_share": 0.981,
+  "black_first_reply": "e5",
+  "black_first_reply_share": 0.806,
+  "top_white_opening": "Kings Pawn Opening 1...e5",
+  "top_white_opening_games": 65,
+  "top_black_opening": "Kings Pawn Opening 1...e5",
+  "top_black_opening_games": 62,
+  "castle_rate": 0.644,
+  "castle_kingside_share": 0.648,
+  "median_castle_move": 11.0,
+  "median_game_length_moves": 28.0,
+  "most_common_ending": "Checkmate",
+  "most_common_ending_share": 0.467,
+  "best_day": "Saturday",
+  "best_day_win_rate": 0.582,
+  "biggest_pattern_lift": "Rated >= opponent going in",
+  "biggest_pattern_lift_value": 0.243
+}
