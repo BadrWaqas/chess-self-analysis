@@ -13,3 +13,6 @@ Thumbs.db
 # Editors
 .vscode/
 .idea/
+
+# Stockfish engine binary (downloaded by scripts/setup_engine.py, ~110MB, not committed)
+engines/
