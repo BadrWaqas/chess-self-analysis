@@ -2,6 +2,9 @@
 
 An analysis of my own Chess.com history. I play on instinct rather than from opening theory, so after 1,488 games over four years I wanted to see what that actually looks like measured from the outside. This pulls my full game history through the Chess.com public API, tidies it into one row per game, and analyses it with pandas, then goes a layer deeper with engine evaluation.
 
+![Win-rate change versus my overall baseline, by pattern](images/win-rate-patterns.png)
+*How much each pattern moves my win rate from my overall baseline. Entering a game rated at or above my opponent outweighs colour, castling and game length.*
+
 ## Findings
 
 **Outcome-based analysis (full history, 1,488 games)**
